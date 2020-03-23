@@ -1,0 +1,26 @@
+{
+  "name": "tian2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "史心甜 <shixintian@jd.com>",
+  "homepage": "https://github.com/shixintian/lerna-fixed#readme",
+  "license": "ISC",
+  "main": "lib/tian2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixintian/lerna-fixed.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/shixintian/lerna-fixed/issues"
+  }
+}
